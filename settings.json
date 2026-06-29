@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Virtual_verse.aternos.me",
+    "port": 60521,
     "version": "1.21.1"
   },
   "position": {
